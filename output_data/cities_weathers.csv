@@ -1,4 +1,4 @@
-City ID,City,Country,Date,Lat,Lng,Max Temp (F),Humidity,Cloudiness,Wind Speed
+City ID,City,Country,Date,Lat,Lng,Max Temp (F),Humidity,Cloudiness,Wind Speed (mph)
 5106841,Albany,US,2020-07-14,42.6,-73.97,73.00400000000005,71,32,7.471245999999999
 4031574,Provideniya,RU,2020-07-14,64.38,-173.3,50.0,81,90,13.421399999999998
 3831208,Qaanaaq,GL,2020-07-14,77.48,-69.36,41.522000000000034,72,1,2.7737559999999997
